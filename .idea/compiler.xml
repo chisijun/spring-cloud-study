@@ -7,11 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-study-eureka-server" />
+        <module name="spring-cloud-study-provider" />
+        <module name="spring-cloud-study-provider-uac" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-cloud-study" target="1.8" />
       <module name="spring-cloud-study-eureka-server" target="1.8" />
+      <module name="spring-cloud-study-provider" target="1.8" />
+      <module name="spring-cloud-study-provider-uac" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

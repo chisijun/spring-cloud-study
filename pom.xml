@@ -18,6 +18,7 @@
 
     <modules>
         <module>spring-cloud-study-eureka-server</module>
+        <module>spring-cloud-study-provider</module>
     </modules>
 
     <!-- 属性设置 -->

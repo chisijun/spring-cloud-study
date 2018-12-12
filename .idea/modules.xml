@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-study.iml" filepath="$PROJECT_DIR$/spring-cloud-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-eureka-server/spring-cloud-study-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-study-eureka-server/spring-cloud-study-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-provider/spring-cloud-study-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-study-provider/spring-cloud-study-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-provider/spring-cloud-study-provider-uac/spring-cloud-study-provider-uac.iml" filepath="$PROJECT_DIR$/spring-cloud-study-provider/spring-cloud-study-provider-uac/spring-cloud-study-provider-uac.iml" />
     </modules>
   </component>
 </project>
